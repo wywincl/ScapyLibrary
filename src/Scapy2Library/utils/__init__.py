@@ -1,4 +1,4 @@
-from _scapy_send import *
+from scapywrapper import *
 from _global import *
 
 __all__ = ["send_igmp_pkt",
