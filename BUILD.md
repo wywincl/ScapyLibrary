@@ -2,18 +2,18 @@
 
 ## Directory Layout
 
-_MANIFEST.in_
+**_MANIFEST.in_**
 
 File that controls what gets included in a distribution
 
-_setup.py_
+**_setup.py_**
 
 Setup script (uses setuptools)
 
-_doc_
+**_doc_**
 
 Scripts to build keyword and readme documentation
 
-_src_
+**_src_**
 
 Library source code
